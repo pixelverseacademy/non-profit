@@ -81,7 +81,7 @@ export default function App() {
         <footer className="bg-gray-900 text-white py-8 text-center mt-8 shadow-inner">
           <div className="flex flex-col items-center gap-3">
             <div className="flex flex-col sm:flex-row gap-2 sm:gap-6 mb-2 text-lg font-semibold">
-              <a href="mailto:pixelmindsdurham@gmail.com" className="hover:underline">pixelmindsdurham@gmail.com</a>
+              <a href="mailto:vinodht@pixelverseacademy.com" className="hover:underline">vinodht@pixelverseacademy.com</a>
               <span className="hidden sm:inline">|</span>
               <a href="tel:1234567890" className="hover:underline">919-390-0941</a>
             </div>
@@ -96,7 +96,7 @@ export default function App() {
               <button type="submit" className="bg-mandarin text-white px-4 py-2 rounded font-bold hover:bg-mandarin-dark transition w-full sm:w-auto">Subscribe</button>
             </form>
             <p className="text-xs text-mandarin-light">&copy; 2025 GiveHart Inc. All rights reserved.</p>
-            <p className="text-xs text-gray-400">Powered by Pixel Minds LLC</p>
+            <p className="text-xs text-gray-400">Powered by pixelverse LLC</p>
           </div>
         </footer>
       </div>

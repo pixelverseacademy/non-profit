@@ -16,9 +16,9 @@ export default function Contact() {
       </section>
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">Direct Contact Info</h2>
-        <p>Email: <a href="mailto:hello@givehart.org" className="underline">pixelmindsdurham@gmail.com</a></p>
+        <p>Email: <a href="mailto:hello@givehart.org" className="underline">vinodht@pixelverseacademy.com</a></p>
         <p>Phone: <a href="tel:1234567890" className="underline">919-390-0941</a></p>
-        <p>Address: 7001 Fayetteville Rd #133, Durham, NC 27713, USA</p>
+        <p>Address: 204 Obstace Ave, Holly Springs, NC 27540</p>
         <div className="my-4">
           {/* Google Map Embed Placeholder */}
           {/* <div className="w-full h-48 bg-gray-200 flex items-center justify-center rounded">Map Here</div> */}
